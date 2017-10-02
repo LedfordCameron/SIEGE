@@ -1,0 +1,65 @@
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Photon3Unity3D.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\websocket-sharp.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\Temp\bin\Debug\Photon3Unity3D.xml
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\obj\Debug\Assembly-CSharp.dll
+C:\Users\Karen\Desktop\More New (2) (1)\More New\turbulence\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Karen\Desktop\karenUpdate\turbulence\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Karen\Desktop\karenUpdate\turbulence\obj\Debug\Assembly-CSharp.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Photon3Unity3D.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\websocket-sharp.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\Temp\bin\Debug\Photon3Unity3D.xml
+C:\Users\Karen\Desktop\karenUpdate\turbulence\obj\Debug\Assembly-CSharp.pdb
